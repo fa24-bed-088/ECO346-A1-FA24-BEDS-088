@@ -1,0 +1,8 @@
+statistic,value
+n_students,9173
+weighted_median,6600
+unweighted_median,7000
+weighted_p10,2000
+weighted_p90,30000
+ratio_p90_p10,15
+n_excluded,3
